@@ -22,7 +22,7 @@ namespace WindowsFormsApp17._02._2026
             textBox1.Text = "Hi!";
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void SayBye(object sender, EventArgs e)
         {
             textBox1.Text = "Bye!";
         }
